@@ -1,4 +1,4 @@
-package com.example.inventory20
+package com.example.inventario
 
 import org.junit.Test
 
